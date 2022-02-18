@@ -1,3 +1,6 @@
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = balaji1702/100-days-of-leet-code/"/>
+</a>
 > # 100 days of leetcode challenge
 >>  Day 1
 >> * [ Two sum ](https://leetcode.com/problems/two-sum/)
