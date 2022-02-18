@@ -5,3 +5,6 @@
 >  
 >> Day 2
 >> * [staircase printing](https://www.hackerrank.com/challenges/staircase/problem)
+>
+>> Day 3
+>> * [contains-duplicate](https://leetcode.com/problems/contains-duplicate)
