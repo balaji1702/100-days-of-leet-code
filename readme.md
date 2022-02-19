@@ -10,4 +10,5 @@
 >> * [contains-duplicate](https://leetcode.com/problems/contains-duplicate)
 >> * [union of array](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1#)
 >
+>>  Day 4
 >> * [cyclic rotate of array](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1#)
