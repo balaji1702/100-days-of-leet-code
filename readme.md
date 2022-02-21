@@ -15,3 +15,6 @@
 >
 >>  Day 5
 >>  * [median of two sorted array](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+>
+>>  Day 6
+>>  * [zigzgconversion](https://leetcode.com/problems/zigzag-conversion/)
